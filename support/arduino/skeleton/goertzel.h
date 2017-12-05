@@ -7,7 +7,7 @@
 extern "C" {
 #endif
 
-/* This definately needs to be in the header file: */
+/* This definitely needs to be in the header file: */
 FUN(goertzel);
 
 #ifdef __cplusplus
